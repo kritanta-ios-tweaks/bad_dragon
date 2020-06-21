@@ -5,7 +5,7 @@ I'll upload a few here for now, expect a larger drop soon.
 
 device/* binaries run on your device.
 
-## recovery
+### /device/*/recovery
 
 Kicks your device into recovery mode. 
 
